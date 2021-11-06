@@ -133,3 +133,4 @@ public class DownloadEntry {
 		this.tempFolder = tempFolder;
 	}
 }
+$

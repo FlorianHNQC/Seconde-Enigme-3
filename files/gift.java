@@ -244,3 +244,4 @@ label bday_gift:
         # jump end_game
 
     return
+$
